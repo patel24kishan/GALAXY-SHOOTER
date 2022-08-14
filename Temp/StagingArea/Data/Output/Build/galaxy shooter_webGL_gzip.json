@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "galaxy shooter_webGL_gzip.data.unityweb",
+"asmCodeUrl": "galaxy shooter_webGL_gzip.asm.code.unityweb",
+"asmMemoryUrl": "galaxy shooter_webGL_gzip.asm.memory.unityweb",
+"asmFrameworkUrl": "galaxy shooter_webGL_gzip.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

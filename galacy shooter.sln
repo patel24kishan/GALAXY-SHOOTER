@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "galacy shooter", "Assembly-CSharp.csproj", "{B95DF09E-4593-9FFC-0DC0-41FEF31C7E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "galacy shooter", "Assembly-CSharp-Editor.csproj", "{83E2E459-4F3E-7741-8408-AA75C2076DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95DF09E-4593-9FFC-0DC0-41FEF31C7E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95DF09E-4593-9FFC-0DC0-41FEF31C7E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95DF09E-4593-9FFC-0DC0-41FEF31C7E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95DF09E-4593-9FFC-0DC0-41FEF31C7E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E2E459-4F3E-7741-8408-AA75C2076DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E2E459-4F3E-7741-8408-AA75C2076DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E2E459-4F3E-7741-8408-AA75C2076DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E2E459-4F3E-7741-8408-AA75C2076DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
